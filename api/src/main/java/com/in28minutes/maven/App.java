@@ -1,7 +1,7 @@
 package com.in28minutes.maven;
 
 /**
- * Hello World test!
+ * Hello World test!1234
  *
  */
 public class App 
