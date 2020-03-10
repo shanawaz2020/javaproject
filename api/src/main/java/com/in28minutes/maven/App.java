@@ -1,7 +1,7 @@
 package com.in28minutes.maven;
 
 /**
- * Hello World test!1234
+ * Hello World test!1
  *
  */
 public class App 
@@ -12,6 +12,6 @@ public class App
     }
 
 	public int calculateSomething() {
-		return 0;
+		return 1;
 	}
 }
